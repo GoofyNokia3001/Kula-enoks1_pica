@@ -49,6 +49,8 @@ public class MainFrame extends JFrame implements ActionListener {
 
 
   MainFrame() {
+	this.setLocation(0,0);
+	this.setExtendedState(java.awt.Frame.MAXIMIZED_BOTH);
     this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
     this.setSize(1920, 1080);
     this.setLayout(null);
@@ -129,6 +131,7 @@ public class MainFrame extends JFrame implements ActionListener {
           "Order amount: " + Order.size() + "\n";
 
         for (int i = 0; i < Order.size(); i++) {
+        	
           str += Order.get(i).orderInfo(OrderWindow.pizzaDelivery);
         }
         str += "\n________________________\n";

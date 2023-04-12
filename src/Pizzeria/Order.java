@@ -70,13 +70,15 @@ public class Order extends App {
         sb.append(pizza.printPizzaInfo()).append("\n\n");
         sb.append("Customer Information:\n\n");
         sb.append(String.format("Name: %s\n", customer.getName()));
-        if (pizzaDelivery) {
-            sb.append(String.format("Delivery address: %s\n", customer.getAddress()));
-            sb.append(String.format("Phone Number: %s\n", customer.getPhoneNumber()));
-            sb.append(String.format("Email: %s\n", customer.getEmail()));
-        }
+        if (customer.getAddress()=="") {
+        	 sb.append(String.format("\nTotal Price: $%.2f\n", totalPrice));
+        	 sb.append(String.format("%s\n", "Delivery: Pickup"));
+        	 
+        }else { sb.append(String.format("Delivery address: %s\n", customer.getAddress()));
+        sb.append(String.format("Phone Number: %s\n", customer.getPhoneNumber()));
+        sb.append(String.format("Email: %s\n", customer.getEmail()));
         sb.append(String.format("\nTotal Price: $%.2f\n", totalPrice));
-        sb.append(String.format("%s\n", "Delivery: "+deliveryOption));
+        sb.append(String.format("%s\n", "Delivery: "+deliveryOption));}
         return sb.toString();
     }
 

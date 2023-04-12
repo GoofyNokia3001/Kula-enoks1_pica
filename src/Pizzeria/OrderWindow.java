@@ -98,7 +98,9 @@ public class OrderWindow extends JFrame implements ActionListener {
   //JLabel icon = MainFrame.icon;
 
   OrderWindow() {
+	  
     newPizzaFrame = new JFrame("Pizza Order");
+    newPizzaFrame.setLocation(750,300);
     newPizzaFrame.setSize(420, 600);
     newPizzaFrame.setLayout(null);
     JLabel typeLabel = new JLabel("Type:");
@@ -289,6 +291,7 @@ public class OrderWindow extends JFrame implements ActionListener {
       newCustomerFrame.setVisible(true);
       newCustomerFrame.setSize(420, 600);
       newCustomerFrame.setLayout(null);
+      newCustomerFrame.setLocation(750,300);
 
       if (pizzaDelivery) {
        

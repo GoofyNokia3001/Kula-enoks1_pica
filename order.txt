@@ -1,5 +1,5 @@
 
-________________________
+__________________________
 _______________________
 
 Order Information:
@@ -20,9 +20,12 @@ Drink Type: Coca-Cola
 
 Customer Information:
 
-Name: asasdasd
+Name: Klimd1
+Delivery address: Aldaru iela 40
+Phone Number: +37122222222
+Email: gsaf@gmail.com
 
-Total Price: $12,97
-Delivery: Pickup
+Total Price: $16,96
+Delivery: Delivery
 
-________________________
+__________________________
