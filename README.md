@@ -1,9 +1,11 @@
-
-<h1 align="center">Hi 👋, I'm Klim</h1>
+<h1 align="center">This is project about pizza :pizza:</h1>
+<h2 align="center">Hi 👋, I'm Klim</h2>
 <h3 align="center">A passionate frontend developer from Latvia</h3>
-<h3 align="center">This is project about pizza :pizza:</h3>
+
 
 - 🔭 I’m currently working on Pizza project: [Pizza](https://github.com/GoofyNokia3001/Kula-enoks1_pica.git)
+
+![](https://r7s2x5s4.stackpathcdn.com/dbcwp/wp-content/uploads/2022/09/pizzas-desktop-orig_v3.png "Pizza")
 
 - 🌱 And i’m currently learning **Frameworks**
 
