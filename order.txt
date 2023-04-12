@@ -1,0 +1,28 @@
+
+________________________
+_______________________
+
+Order Information:
+
+Pizza Information:
+
+Type: Cheese Pizza
+Size: 10
+Slices: 4
+Toppings: Yes
+Topping Type: Cheese
+Sauce: Yes
+Sauce Type: Soy Sauce
+Sides: Yes
+Side Type: Fri
+Drink: Yes
+Drink Type: Coca-Cola
+
+Customer Information:
+
+Name: asasdasd
+
+Total Price: $12,97
+Delivery: Pickup
+
+________________________
