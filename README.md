@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Klim</h1>
 <h3 align="center">A passionate frontend developer from Latvia</h3>
 
-- 🔭 I’m currently working on [Pizza](https://github.com/GoofyNokia3001/Kula-enoks1_pica.git)
+- 🔭 I’m currently working on Pizza project: [Pizza](https://github.com/GoofyNokia3001/Kula-enoks1_pica.git)
 
-- 🌱 I’m currently learning **Frameworks**
+- 🌱 And i’m currently learning **Frameworks**
 
 
 <h3 align="left">Languages and Tools:</h3>
