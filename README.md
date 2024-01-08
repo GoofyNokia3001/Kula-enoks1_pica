@@ -3,11 +3,11 @@
 <h3 align="center">A passionate frontend developer from Latvia</h3>
 
 
-- 🔭 I’m currently working on Pizza project: [Pizza](https://github.com/GoofyNokia3001/Kula-enoks1_pica.git)
+- 🔭 I’m completed Pizza project: [Pizza](https://github.com/GoofyNokia3001/Kula-enoks1_pica.git)
 
 ![](https://r7s2x5s4.stackpathcdn.com/dbcwp/wp-content/uploads/2022/09/pizzas-desktop-orig_v3.png "Pizza")
 
-- 🌱 And i’m currently learning **Frameworks**
+- 🌱 And i’m currently learning **Frameworks** and **ReactJS**
 
 <h3 align="left">This project writted on Java:</h3>
 <p align="left">  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
