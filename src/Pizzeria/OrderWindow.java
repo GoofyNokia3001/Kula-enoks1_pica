@@ -395,7 +395,7 @@ public class OrderWindow extends JFrame implements ActionListener {
           App.correctEmail(customerEmail)
         ) {
           MainFrame.Order.add(order);
-          App.saveOrder(order,  pizzaDelivery);
+          App.saveOrder(order, pizzaDelivery);
                            
         }
       } else {

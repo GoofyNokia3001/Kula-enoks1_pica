@@ -17,7 +17,7 @@ public class MainFrame extends JFrame implements ActionListener {
 
   public static void music(boolean hasPlayed)
     throws UnsupportedAudioFileException, IOException, LineUnavailableException {
-    File file = new File("C:\\Users\\2PT-2\\Kulacenoks_eclipse\\Kulacenoks_pica\\Kulacenoks_pica\\src\\Pizzeria\\Breaking Bad Main Theme Extended Version.wav");
+    File file = new File("Kulacenoks_pica\\src\\Pizzeria\\Breaking Bad Main Theme Extended Version.wav");
     AudioInputStream audioStream = AudioSystem.getAudioInputStream(file);
     Clip clip = AudioSystem.getClip();
     clip.open(audioStream);
@@ -63,7 +63,7 @@ public class MainFrame extends JFrame implements ActionListener {
     Exit = new JButton("Exit");
 	fileMenu = new JMenu("File");
     exitItem = new JMenuItem("Exit");
-	icon = new JLabel(new ImageIcon("C:\\Users\\2PT-2\\Kulacenoks_eclipse\\Kulacenoks_pica\\Kulacenoks_pica\\src\\Pizzeria\\pizza.jpg"));
+	icon = new JLabel(new ImageIcon("Kulacenoks_pica\\src\\Pizzeria\\pizza.jpg"));
     menuBar = new JMenuBar();
     start = new JButton("Play music");
 
